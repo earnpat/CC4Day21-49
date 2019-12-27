@@ -1,0 +1,9 @@
+.eachItem {
+    border: 1px solid black;
+    width: 200px;
+    text-align: center;
+}
+
+.eachItem img {
+    width: 150px;
+}
