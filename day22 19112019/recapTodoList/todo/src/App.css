@@ -1,0 +1,38 @@
+.allApp {
+  border: thin solid #cccccc;
+  padding: 10px;
+  border-radius: 2px;
+  background-color: #eeeeee;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.inputAdd {
+  padding-bottom: 5px;
+}
+
+.input {
+  border: thin solid #cccccc;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding: 5px 10px;
+}
+
+.btnAdd {
+  background-color: #cccccc;
+  border: thin solid #cccccc;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 5px 10px;
+}
+
+.listTodo > .cross {
+  float: right;
+}
+
+.cross {
+  cursor: pointer;
+  color: red;
+}
